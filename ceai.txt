@@ -1,0 +1,9 @@
+9,bhdcjh,chjsj,8561.0
+2,Calmin,fructe de padure,15.42
+7,Sorbifer,macese,12.0
+6,Calmant,menta,15.0
+4,Tusin,menta,9.4
+8,Stratusin,musetel,24.0
+5,Ierbifer,musetel,18.2
+1,Plantusin,musetel,10.4
+3,Planta,zmeura,7.8
