@@ -1,0 +1,5 @@
+3,Nescafe,Brazilia,36.48
+5,Maria,Brazilia,41.5
+4,Ana,Columbia,10.5
+2,Jacobs,Columbia,25.87
+1,Brasero,Guatemala,14.5
